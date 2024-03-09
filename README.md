@@ -1,1 +1,1 @@
-# auth-server-graphql
+# admin-panel
